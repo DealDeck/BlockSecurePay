@@ -5,8 +5,8 @@ www.blocksecurepay.com.
 Customers first Register on the website or in the smartphone App.
 During the registration process customers are required to submit KYC / AML documents.
 After successful registration the custome may Login to Dashboard where they may
-create a multiple e-wallets and
-saelect a Payment Smart Contract template.
+create a multiple currency e-wallets and
+select a Payment Smart Contract template.
 After selecting a payment smart contract the customer is directed to an online survey to set the details of the Payment Smart Contract.
 The customer then notifies the counter party to review and approve the payment smart contract.
 After approval the smart contract is uploaded to the Ethereum to blockchain.
