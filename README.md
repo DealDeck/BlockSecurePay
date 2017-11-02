@@ -1,18 +1,18 @@
 # BlockSecurePay
-Blockchain B2B Payment Transfer Platform.
-Transfer cryptocurrency or fait. 
-www.blocksecurepay.com
-Register.
-Submit KYC / AML documents.
-Login to Dashboard.
-create wallet.
-Select Payment Smart Contract template.
-Answer survey for Smart Contract details.
-Send smart contract to counter party to approve.
-upload smart contract to blockchain.
-deposit funds to smart contract.
-deliver product or service.
-confirm performance.
-Smart Contract delivers payment to counter party's wallet.
-Smart Contract delivers Fees to BlockSecurePay.
-Counter Party may withdraw funds.
+is a Blockchain B2B Payment Transfer Platform.
+Customers may transfer cryptocurrency or fait on 
+www.blocksecurepay.com.
+Customers first Register on the website or in the smartphone App.
+During the registration process customers are required to submit KYC / AML documents.
+After successful registration the custome may Login to Dashboard where they may
+create a multiple e-wallets and
+saelect a Payment Smart Contract template.
+After selecting a payment smart contract the customer is directed to an online survey to set the details of the Payment Smart Contract.
+The customer then notifies the counter party to review and approve the payment smart contract.
+After approval the smart contract is uploaded to the Ethereum to blockchain.
+The customer then deposits the agreed amount of funds to smart contract.
+The counter party then can deliver the product or service purchased by the payer.
+The customer upon receipt of the product or service then confirm performance of the smart contract.
+Upon approval the Smart Contract delivers payment to counter party's wallet.
+Also upon approval the Smart Contract delivers Fees to BlockSecurePay.
+The Counter Party may then withdraw funds from their e-wallet.
